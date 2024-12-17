@@ -1,7 +1,8 @@
-Java Exception Handling Examples
+#Java Exception Handling Examples
+
 This repository demonstrates how to handle various checked and unchecked exceptions in Java using clean, organized, and OOP-compliant code. Each type of exception is encapsulated in its own handler class, and a main class is used to execute and demonstrate the examples.
 
-Project Structure
+#Project Structure
 The project is divided into three main Java files:
 
 CheckedExceptionHandler.java
@@ -24,7 +25,7 @@ NumberFormatException
 MainExceptionDemo.java
 The entry point of the application. Demonstrates exception handling by instantiating the respective handlers and invoking their methods.
 
-Features
+#Features
 Encapsulation: Exception handling logic is neatly encapsulated in dedicated classes.
 Reusability: Each exception simulation and handling is implemented as an independent method.
 OOP Principles: Adheres to modularity and clean coding practices.
